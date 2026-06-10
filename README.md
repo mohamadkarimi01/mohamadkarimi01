@@ -57,21 +57,22 @@
 
 
 ---
+---
 
-### 🌱 Currently Leveling Up
-*   Algorithms & problem solving
-*   LPIC Linux certification
-*   Networking fundamentals
-*   DevOps practices (CI/CD, IaC)
-*   Advanced .NET patterns
+### 🌱 Currently Leveling Up (در حال یادگیری / پیشرفت در زمینه‌های):
+*   Advanced MLOps Pipelines (Kubeflow, MLflow, Apache Airflow)
+*   Cloud-Native Architectures (AWS SageMaker, GCP Vertex AI, Azure ML, Kubernetes)
+*   Data Governance & Security in Cloud Environments
+*   Real-time Data Processing (Kafka, Spark Streaming)
+*   Explainable AI (XAI) Techniques
 
 ---
 
-### 🏆 Professional Highlights
-*   Led multiple projects from conception to deployment at Treata
-*   Cross-platform development (Web/Desktop/Mobile)
-*   Implemented containerized solutions with Docker
-*   Scrum processes implementation and optimization
+### 🏆 Professional Highlights (برجستگی‌های شغلی / دستاوردهای حرفه‌ای):
+*   Designed and Implemented End-to-End MLOps Pipelines, reducing time-to-market by X%.
+*   Optimized Data Infrastructure for Scalability using Spark and PostgreSQL, increasing processing speed by Y%.
+*   Containerized ML Workloads with Docker & Kubernetes, enhancing stability and reproducibility.
+*   Led cross-functional teams in Agile/Scrum environments for successful MLOps project delivery.
 
 ---
 
