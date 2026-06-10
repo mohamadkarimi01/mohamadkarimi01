@@ -76,7 +76,6 @@
 ---
 
 ### 📧 Let's Collaborate
-*   **Email**: [Your Email Address](mailto:your.email@example.com)
-*   **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-*   **Twitter**: [Your Twitter Profile](https://twitter.com/your-twitter-handle)
-
+*   **Email**: 
+*   **LinkedIn**: 
+*   **Twitter**:
