@@ -57,4 +57,6 @@
   <img src="https://github-profile-trophy.vercel.app/api/trophy?username=mohamadkarimi01&theme=tokyonight&column=4" alt="GitHub Trophy" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadkarimi01&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
