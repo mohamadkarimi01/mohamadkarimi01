@@ -57,9 +57,8 @@
 
 
 ---
----
 
-### 🌱 Currently Leveling Up (در حال یادگیری / پیشرفت در زمینه‌های):
+### 🌱 Currently Leveling Up:
 *   Advanced MLOps Pipelines (Kubeflow, MLflow, Apache Airflow)
 *   Cloud-Native Architectures (AWS SageMaker, GCP Vertex AI, Azure ML, Kubernetes)
 *   Data Governance & Security in Cloud Environments
@@ -68,7 +67,7 @@
 
 ---
 
-### 🏆 Professional Highlights (برجستگی‌های شغلی / دستاوردهای حرفه‌ای):
+### 🏆 Professional Highlights:
 *   Designed and Implemented End-to-End MLOps Pipelines, reducing time-to-market by X%.
 *   Optimized Data Infrastructure for Scalability using Spark and PostgreSQL, increasing processing speed by Y%.
 *   Containerized ML Workloads with Docker & Kubernetes, enhancing stability and reproducibility.
