@@ -42,6 +42,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadkarimi01&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+<!-- Streak Stats (The purple box in your image) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamadkarimi01&theme=tokyo-night" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadkarimi01&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+<!-- Activity Graph (The blue line chart in your image) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamadkarimi01&theme=tokyo-night&area=true" width="100%" alt="Activity Graph" />
+</p>
+
