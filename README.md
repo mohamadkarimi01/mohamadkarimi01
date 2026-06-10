@@ -5,7 +5,7 @@
 
 # 👨‍💻 Mohamadreza
 
-### MLOps Engineer | Data Engineer | Python Specialist
+### MLOps Engineer | Data Engineer | Python Specialist | Software Developer | Project Manager |
 
 - 🏢 **Currently at**: Focused on Scalable AI Infrastructure
 - 🚀 **Focus**: Deploying ML Models & Building Robust Data Pipelines
