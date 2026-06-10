@@ -50,10 +50,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamadkarimi01&theme=tokyo-night&area=true" width="100%" alt="Activity Graph" />
 </p>
 
-<!-- GitHub Profile Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/api/trophy?username=mohamadkarimi01&theme=tokyonight&column=4" alt="GitHub Trophy" />
-</p>
 
 
 ---
